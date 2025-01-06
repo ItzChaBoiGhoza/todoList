@@ -1,1 +1,4 @@
-This is a simple to do list application. Will update README as the project progress.
+# TO DO LIST
+
+This is a simple to do list application
+I will update the README as the project progresses
